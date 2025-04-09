@@ -1,4 +1,4 @@
-# Non-MaxwellianDistribution
+# Non-Maxwellian Distribution
 ## Overview
 
 In astronomical environments, the high-temperature emission of plasma mainly depends on ion charge states, which requires accurate analysis of the ionization and recombination processes. For various phenomena involving energetic particles, the non-Maxwellian distributions of electrons exhibiting high-energy tails can significantly enhance the ionization process.
