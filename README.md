@@ -21,7 +21,7 @@ You can use this code to:
 - Fit non-Maxwellian distributions with Maxwellian components
 - Compute ionization and recombination rates for astrophysical diagnostics
 
-## Citation
+## References
 
 Shen et al. ...
 
